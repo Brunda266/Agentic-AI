@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+
+# Python virtual env
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
